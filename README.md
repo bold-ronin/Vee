@@ -1,4 +1,4 @@
-## Vee – Space Exploration & AI App 🚀
+## VEE – Space Exploration & AI App 🚀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Naomer/Vee/c29e727c92c566325ffac9fbbcb0ec08e7f176bf/01.png" width="24%">
